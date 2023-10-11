@@ -1,0 +1,8 @@
+
+kafka_consumer/keys.json
+create-cloud-storage.py
+kafka_consumer/dynamic_load.py
+kafka_consumer/load_to_bq.py
+kafka_consumer/x.py
+kafka_consumer/test.py
+postgres_data
